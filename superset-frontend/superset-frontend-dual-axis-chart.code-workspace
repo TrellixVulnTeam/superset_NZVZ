@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "packages/generator-superset/tmp/superset-plugin-dual-axis-chart"
+		},
+		{
+			"path": "packages/generator-superset/tmp/superset-plugin-chart-bullet-v2"
+		}
+	],
+	"settings": {}
+}
